@@ -6,6 +6,8 @@
 	echo 'Ovo je tek pocetak';
 
 	echo 'Master';
+	
+	echo 'Mergeeeeeee';
 
 ?>
 
