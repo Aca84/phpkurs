@@ -5,11 +5,7 @@
 
 	echo 'Ovo je tek pocetak';
 
-	echo 'Tatattatiraa';
+	echo 'Master';
 
-
-	echo 'brbrbbr';
-	
-	echo 'test grana';
 ?>
 
