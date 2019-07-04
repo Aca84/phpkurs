@@ -1,5 +1,5 @@
 <?php
-
+	echo 'poslednji cas se uskoro zavrsava'
 
 	echo 'Ovo je tek pocetak,dvnb fdhjb ';
 
