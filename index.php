@@ -3,16 +3,12 @@
 
 	echo 'RRRRRRRRRRRRRRR ';
 
-<<<<<<< HEAD
-
 	echo 'Tatattatiraa';
 	
-		echo 'test br br';
-=======
+	echo 'test br br';
+
 	echo 'Ovo je tek pocetak';
 
 	echo 'Master';
->>>>>>> master
-
 ?>
 
