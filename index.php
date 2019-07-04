@@ -1,16 +1,18 @@
 <?php
 	echo 'poslednji cas se uskoro zavrsava'
 
-	echo 'Ovo je tek pocetak,dvnb fdhjb ';
+	echo 'RRRRRRRRRRRRRRR ';
 
-
-	echo 'Ovo je tek pocetak';
+<<<<<<< HEAD
 
 	echo 'Tatattatiraa';
-
-
-	echo 'brbrbbr';
 	
-	echo 'test grana';
+		echo 'test br br';
+=======
+	echo 'Ovo je tek pocetak';
+
+	echo 'Master';
+>>>>>>> master
+
 ?>
 
